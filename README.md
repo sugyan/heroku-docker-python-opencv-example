@@ -8,5 +8,3 @@ example application of [heroku-python-opencv docker image](https://hub.docker.co
     $ cd heroku-docker-python-opencv-example
     $ heroku create
     $ heroku docker:release
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
