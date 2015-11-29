@@ -1,0 +1,6 @@
+{
+  "name": "Python with OpenCV Example",
+  "description": "An example app.json for heroku-python-opencv",
+  "image": "sugyan/heroku-python-opencv",
+  "addons": []
+}
